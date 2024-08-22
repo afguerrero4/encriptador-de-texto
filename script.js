@@ -1,10 +1,10 @@
-const textArea = document.querySelector(".text-area");
+const textArea = document.querySelector(".encriptar");
 const mensaje = document.querySelector(".mensaje");
 
 /*document.addEventListener("DOMContentLoaded", function() {
 
     function mostrarMensajeSiVacio() {
-        const textArea = document.querySelector(".text-area");
+        const textArea = document.querySelector(".encriptar");
         const mensajeArea = document.querySelector(".mensaje");
 
         if (textArea.value.trim() === "") {

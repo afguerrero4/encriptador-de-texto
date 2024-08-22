@@ -27,6 +27,7 @@
     background: var(--color-basico-boton);
     color: var(--color-fondo-secundario);
 }
+
 body{
     height: 100%;
 }
